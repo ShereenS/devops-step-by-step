@@ -53,7 +53,7 @@
 
 - [⬇️ Mastering Terraform (Get Certified)](source/mastering-terraform/ "Mastering Terraform (Get Certified)")
 
-  - [📃 Course Outlines](/source/mastering-terraform/terraform-outline.md "Course Outlines")
+  - [📃 Course Outlines](source/mastering-terraform/source/terraform-outline.md "Course Outlines")
 
 - [💪 Mentoring Service](/source/mentoring-service/ "Mentoring Service")
 
@@ -85,7 +85,7 @@
 
 - [❓ General FAQ](/source/faq.md "FAQ")
 
-- [🙋‍♀️ Q/A](http://devopsvisionsqa.mohamedradwan.com/ "Q/A")
+- [🙋‍♀️ Q/A (Knowledge Base) (KB)](http://devopsvisionsqa.mohamedradwan.com/ "Q/A")
 
 - [⭐ Reviews (Individuals)](/source/review-individuals.md "Click here to See Members Reviews")
 
@@ -111,13 +111,17 @@
   [![YouTube](/source/images/mics/youtube-icon.png "English YouTube Channel")](https://www.youtube.com/user/MRadwanMSF?sub_confirmation=1)
   &ensp;
   [![YouTube](/source/images/mics/youtube-icon.png "Arabic YouTube Channel")](https://www.youtube.com/c/MohamedRadwanArabic?sub_confirmation=1)
+   &ensp;
+   [![Facebook](/source/images/mics/facebook-icon.png "Facebook")](https://www.facebook.com/mradwandevops)
   &ensp;
-  [![Instagram](/source/images/mics/instagram-icon.png "Instagram")](#)
+   [![Instagram](/source/images/mics/instagram-icon.png "Instagram")](https://www.instagram.com/mradwan06/)
   &ensp;
   [![Website](/source/images/mics/website-icon.png "Website")](https://mohamedradwan.com/)
   &ensp;
   [![MVP](/source/images/mics/mvp-icon.png "Microsoft Most Valuable Professional")](https://mvp.microsoft.com/en-us/PublicProfile/4039889?fullName=Mohamed%20Radwan/)
 
+ 
+  
 
 ## Thanks to all our contributors ❤️
 [![Contributors](https://contrib.rocks/image?repo=MohamedRadwan-DevOps/devops-step-by-step "Contributors")](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/graphs/contributors)
